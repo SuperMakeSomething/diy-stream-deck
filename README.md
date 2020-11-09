@@ -1,6 +1,8 @@
 # DIY Stream Deck
 by: Alex - Super Make Something
+
 date: November 9, 2020
+
 license: Creative Commons - Attribution - Non-Commercial.  More information available at: http://creativecommons.org/licenses/by-nc/3.0/
 
 ![Banner](https://github.com/SuperMakeSomething/diy-stream-deck/blob/main/img/thumbnail_small.jpg)
