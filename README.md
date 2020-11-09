@@ -1,7 +1,8 @@
 # DIY Stream Deck
 by: Alex - Super Make Something
-
 date: November 9, 2020
+
+![Banner](https://github.com/SuperMakeSomething/diy-stream-deck/blob/main/img/thumbnail_small.jpg)
 
 Arduino code, icon templates, and set instructions for the DIY Stream Deck featured in Super Make Something Episode 22!
 
