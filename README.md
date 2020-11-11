@@ -23,23 +23,41 @@ Write-up coming soon!  In the meantime, please check out the project video [here
 
 ## Bill of materials
 PCBs: https://bit.ly/2JKsyOw
+
 3.5in TFT LCD Screen: https://amzn.to/3ke75tS
+
 Arduino Pro Micro: https://amzn.to/35e6Vys
+
 Arduino Nano: https://amzn.to/3eHZF0K
+
 SD Card Breakout Board: https://amzn.to/3kb2Orj
+
 6mm Push-Buttons: https://amzn.to/2Ilm4VO
+
 Rotary Encoder with Push-Button: https://amzn.to/35j7Xtf
+
 Male/Female Header Kit: https://amzn.to/35ezw6T
+
 Ribbon Cable: https://amzn.to/2GPOrLq
+
 4GB Micro SD Card: https://amzn.to/35eC2tS
+
 M2 Screw Kit: https://amzn.to/2GKlz77
+
 M3 Screw Kit: https://amzn.to/2GNitiQ
+
 Hatchbox Black PLA: https://amzn.to/35fGM2h
+
 Hatchbox White PLA: https://amzn.to/2InWG1n
+
 Color Changing PLA: https://amzn.to/35fNuoM
+
 Resistor Kit (Optional): https://amzn.to/2UcVQY2
+
 Slow Flash RGB LEDs (Optional): https://amzn.to/2Uep7l2
+
 20x20mm Acrylic Squares: https://litko.net/
+
 
 (All Amazon links are affiliate links)
 
