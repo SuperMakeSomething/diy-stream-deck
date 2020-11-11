@@ -23,6 +23,7 @@ Write-up coming soon!  In the meantime, please check out the project video [here
 
 ## Bill of materials
 - PCBs: https://bit.ly/2JKsyOw
+- 3D Printed Files: https://www.thingiverse.com/thing:4650060
 - 3.5in TFT LCD Screen: https://amzn.to/3ke75tS
 - Arduino Pro Micro: https://amzn.to/35e6Vys
 - Arduino Nano: https://amzn.to/3eHZF0K
@@ -41,7 +42,7 @@ Write-up coming soon!  In the meantime, please check out the project video [here
 - Slow Flash RGB LEDs (Optional): https://amzn.to/2Uep7l2
 - 20x20mm Acrylic Squares: https://litko.net/
 
-(All Amazon links are affiliate links)
+(All Amazon links are affiliate links.)
 
 ## Conclusion
 Hopefully you found this project useful!  If you enjoyed this tutorial, consider subscribing to Super Make Something on YouTube [here](https://www.youtube.com/supermakesomething?sub_confirmation=1) for more cool builds!  If you _really_ liked this tutorial and want to support future projects, you can become a [patron on Patreon](https://www.patreon.com/SuperMakeSomething).
